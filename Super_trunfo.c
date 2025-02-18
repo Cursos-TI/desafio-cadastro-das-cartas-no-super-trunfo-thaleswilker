@@ -2,6 +2,9 @@
 #include <stdlib.h>
 
 int main() {
+    printf("Desafio Super Trunfo\n");
+    printf("Novo commit\n");
+    
     char Estado;
     char Codigo[4];
     char NomeDaCidade[30];
